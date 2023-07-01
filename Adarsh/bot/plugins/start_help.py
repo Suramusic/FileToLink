@@ -176,7 +176,7 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("🥀 𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/Alinallmoviesrequest"), InlineKeyboardButton("♻️ 𝙱𝙾𝚃𝚂 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ♻️", url="https://t.me/FileStore_Bots_Updates")]
+                [InlineKeyboardButton("🥀 𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/thavarajtj"), InlineKeyboardButton("♻️ 𝙱𝙾𝚃𝚂 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ♻️", url="https://t.me/FileStore_Bots_Updates")]
             ]
         )
     )
@@ -237,7 +237,7 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("🥀 𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/Alinallmoviesrequest"), InlineKeyboardButton("♻️ 𝙱𝙾𝚃𝚂 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ♻️", url="https://t.me/FileStore_Bots_Updates")]
+                [InlineKeyboardButton("🥀 𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/thavarajtj"), InlineKeyboardButton("♻️ 𝙱𝙾𝚃𝚂 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ♻️", url="https://t.me/FileStore_Bots_Updates")]
             ]
         )
     )
